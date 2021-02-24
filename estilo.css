@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: times new roman;
+    color: red;
+    text-align: left;
+    font-size: 20px;
+}
+
+#contorno {
+    text-align: center;
+    background-color: #20B2AA;
+}
+
+.fotos {
+    border-radius: 50%;
+}
+
+.passeios {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
